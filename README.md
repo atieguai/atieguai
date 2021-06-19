@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atieguai.
-- 👀 I’m interested in Shanghai Pudong.
+- 👀 I’m interested in K12 training.
 - 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on K12 training software.
 - 📫 How to reach me qq:40853265
